@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WEBAPIREST", "WEBAPIREST\WEBAPIREST.csproj", "{8CEF3DC2-F324-4F6F-A618-8C1732539FE7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8CEF3DC2-F324-4F6F-A618-8C1732539FE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CEF3DC2-F324-4F6F-A618-8C1732539FE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CEF3DC2-F324-4F6F-A618-8C1732539FE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CEF3DC2-F324-4F6F-A618-8C1732539FE7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E383503A-9538-4EA7-89BB-4DAE47C1FC9A}
+	EndGlobalSection
+EndGlobal
